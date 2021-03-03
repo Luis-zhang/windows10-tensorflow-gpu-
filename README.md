@@ -3,15 +3,24 @@ windows10 anaconda tensorflow-gpu2.4.0安装
 <div id ="0.0">目录<div>    
 
 [tensorflow对应版本cuda和cudnn版本对照参考](#1.0)  
-[anaconda安装](#1.1)
-[设定anaconda镜像源](#1.2)
-[安装CUDA](#1.3)
-[安装cudnn](#1.4)
-[配置环境变量](#1.5)
-[tensorflow-gpu安装](#1.6)
-[pycharm安装](#1.7)
-[附上MNIST代码](#1.8)
-[conda 常用命令](#2.1)
+[anaconda安装](#1.1)  
+
+[设定anaconda镜像源](#1.2)  
+
+[安装CUDA](#1.3)  
+
+[安装cudnn](#1.4)  
+
+[配置环境变量](#1.5)  
+
+[tensorflow-gpu安装](#1.6)  
+
+[pycharm安装](#1.7)  
+
+[附上MNIST代码](#1.8)  
+
+[conda 常用命令](#2.1)  
+
 <div id = "1.0">首先确认自己需要安装哪个版本的tensorflow再安装对应版本CUDA及cudnn！！！！！！！！<div>  
 本教程实例为：  
   
